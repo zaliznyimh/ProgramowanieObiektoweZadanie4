@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRHub", "HRHub\HRHub.csproj", "{59F0711B-E2DC-4B00-AD80-440C17685E0B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{65412FC0-8591-4A8F-9304-ED7504C7AA88} = {65412FC0-8591-4A8F-9304-ED7504C7AA88}
+		{B4BA4A43-BAD2-4E29-8099-E4894EE18FCF} = {B4BA4A43-BAD2-4E29-8099-E4894EE18FCF}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRHub.Data", "HRHub.Data\HRHub.Data.csproj", "{FD868901-2CE4-450A-BC6D-DB1CCF3E9797}"
+	ProjectSection(ProjectDependencies) = postProject
+		{65412FC0-8591-4A8F-9304-ED7504C7AA88} = {65412FC0-8591-4A8F-9304-ED7504C7AA88}
+		{B4BA4A43-BAD2-4E29-8099-E4894EE18FCF} = {B4BA4A43-BAD2-4E29-8099-E4894EE18FCF}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRHub.Interfaces", "HRHub.Interfaces\HRHub.Interfaces.csproj", "{65412FC0-8591-4A8F-9304-ED7504C7AA88}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0A6596AE-96D5-4C1C-B32C-021A0766C5BE} = {0A6596AE-96D5-4C1C-B32C-021A0766C5BE}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRHub.Gui", "HRHub.Gui\HRHub.Gui.csproj", "{B4BA4A43-BAD2-4E29-8099-E4894EE18FCF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{65412FC0-8591-4A8F-9304-ED7504C7AA88} = {65412FC0-8591-4A8F-9304-ED7504C7AA88}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRHub.Enums", "HRHub.Enums\HRHub.Enums.csproj", "{0A6596AE-96D5-4C1C-B32C-021A0766C5BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F0711B-E2DC-4B00-AD80-440C17685E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F0711B-E2DC-4B00-AD80-440C17685E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F0711B-E2DC-4B00-AD80-440C17685E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F0711B-E2DC-4B00-AD80-440C17685E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD868901-2CE4-450A-BC6D-DB1CCF3E9797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD868901-2CE4-450A-BC6D-DB1CCF3E9797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD868901-2CE4-450A-BC6D-DB1CCF3E9797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD868901-2CE4-450A-BC6D-DB1CCF3E9797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65412FC0-8591-4A8F-9304-ED7504C7AA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65412FC0-8591-4A8F-9304-ED7504C7AA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65412FC0-8591-4A8F-9304-ED7504C7AA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65412FC0-8591-4A8F-9304-ED7504C7AA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4BA4A43-BAD2-4E29-8099-E4894EE18FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BA4A43-BAD2-4E29-8099-E4894EE18FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BA4A43-BAD2-4E29-8099-E4894EE18FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BA4A43-BAD2-4E29-8099-E4894EE18FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6596AE-96D5-4C1C-B32C-021A0766C5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6596AE-96D5-4C1C-B32C-021A0766C5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6596AE-96D5-4C1C-B32C-021A0766C5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6596AE-96D5-4C1C-B32C-021A0766C5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8788B2A0-B372-42D0-97B2-D5BC952B7DF5}
+	EndGlobalSection
+EndGlobal

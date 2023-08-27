@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eUcJNcKwoHo705ZEIztlth8brdGfweCfSB3tm9Z9e43uWyW2EHzVTp4lKHNHLQ7baOmQAOANgcHWOF8J0uM1Kg==",
+  "success": true,
+  "projectFilePath": "D:\\ProgramowanieObiektoweGotoweZadania\\ProgramowanieObiektoweZadanie4\\HRHub.Gui\\HRHub.Gui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Михаил\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

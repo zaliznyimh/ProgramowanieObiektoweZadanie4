@@ -1,0 +1,116 @@
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\HRHub.exe
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\HRHub.deps.json
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\HRHub.runtimeconfig.json
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\HRHub.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\HRHub.pdb
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\obj\Debug\net6.0\HRHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\obj\Debug\net6.0\HRHub.AssemblyInfoInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\obj\Debug\net6.0\HRHub.AssemblyInfo.cs
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\obj\Debug\net6.0\HRHub.csproj.CoreCompileInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\obj\Debug\net6.0\HRHub.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\obj\Debug\net6.0\refint\HRHub.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\obj\Debug\net6.0\HRHub.pdb
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\obj\Debug\net6.0\HRHub.genruntimeconfig.cache
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\obj\Debug\net6.0\ref\HRHub.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\PeanutButter.TinyEventAggregator.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\System.Text.Json.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\HRHub.Data.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\HRHub.Enums.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\HRHub.Gui.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\HRHub.Interfaces.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\HRHub.Gui.pdb
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\HRHub.Interfaces.pdb
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\HRHub.Data.pdb
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\bin\Debug\net6.0\HRHub.Enums.pdb
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\obj\Debug\net6.0\HRHub.csproj.AssemblyReference.cache
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub\obj\Debug\net6.0\HRHub.csproj.CopyComplete
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\HRHub.exe
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\HRHub.deps.json
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\HRHub.runtimeconfig.json
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\HRHub.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\HRHub.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\PeanutButter.TinyEventAggregator.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\System.Text.Json.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\HRHub.Data.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\HRHub.Enums.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\HRHub.Gui.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\HRHub.Interfaces.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\HRHub.Gui.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\HRHub.Interfaces.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\HRHub.Data.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\bin\Debug\net6.0\HRHub.Enums.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\obj\Debug\net6.0\HRHub.csproj.AssemblyReference.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\obj\Debug\net6.0\HRHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\obj\Debug\net6.0\HRHub.AssemblyInfoInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\obj\Debug\net6.0\HRHub.AssemblyInfo.cs
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\obj\Debug\net6.0\HRHub.csproj.CoreCompileInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\obj\Debug\net6.0\HRHub.csproj.CopyComplete
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\obj\Debug\net6.0\HRHub.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\obj\Debug\net6.0\refint\HRHub.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\obj\Debug\net6.0\HRHub.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\obj\Debug\net6.0\HRHub.genruntimeconfig.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub\obj\Debug\net6.0\ref\HRHub.dll

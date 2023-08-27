@@ -1,0 +1,24 @@
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Enums\bin\Debug\net6.0\HRHub.Enums.deps.json
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Enums\bin\Debug\net6.0\HRHub.Enums.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Enums\bin\Debug\net6.0\HRHub.Enums.pdb
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Enums\obj\Debug\net6.0\HRHub.Enums.csproj.AssemblyReference.cache
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Enums\obj\Debug\net6.0\HRHub.Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Enums\obj\Debug\net6.0\HRHub.Enums.AssemblyInfoInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Enums\obj\Debug\net6.0\HRHub.Enums.AssemblyInfo.cs
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Enums\obj\Debug\net6.0\HRHub.Enums.csproj.CoreCompileInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Enums\obj\Debug\net6.0\HRHub.Enums.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Enums\obj\Debug\net6.0\refint\HRHub.Enums.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Enums\obj\Debug\net6.0\HRHub.Enums.pdb
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Enums\obj\Debug\net6.0\ref\HRHub.Enums.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Enums\bin\Debug\net6.0\HRHub.Enums.deps.json
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Enums\bin\Debug\net6.0\HRHub.Enums.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Enums\bin\Debug\net6.0\HRHub.Enums.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Enums\obj\Debug\net6.0\HRHub.Enums.csproj.AssemblyReference.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Enums\obj\Debug\net6.0\HRHub.Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Enums\obj\Debug\net6.0\HRHub.Enums.AssemblyInfoInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Enums\obj\Debug\net6.0\HRHub.Enums.AssemblyInfo.cs
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Enums\obj\Debug\net6.0\HRHub.Enums.csproj.CoreCompileInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Enums\obj\Debug\net6.0\HRHub.Enums.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Enums\obj\Debug\net6.0\refint\HRHub.Enums.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Enums\obj\Debug\net6.0\HRHub.Enums.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Enums\obj\Debug\net6.0\ref\HRHub.Enums.dll

@@ -1,0 +1,24 @@
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Interfaces\bin\Debug\net6.0\HRHub.Interfaces.deps.json
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Interfaces\bin\Debug\net6.0\HRHub.Interfaces.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Interfaces\bin\Debug\net6.0\HRHub.Interfaces.pdb
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Interfaces\obj\Debug\net6.0\HRHub.Interfaces.csproj.AssemblyReference.cache
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Interfaces\obj\Debug\net6.0\HRHub.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Interfaces\obj\Debug\net6.0\HRHub.Interfaces.AssemblyInfoInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Interfaces\obj\Debug\net6.0\HRHub.Interfaces.AssemblyInfo.cs
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Interfaces\obj\Debug\net6.0\HRHub.Interfaces.csproj.CoreCompileInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Interfaces\obj\Debug\net6.0\HRHub.Interfaces.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Interfaces\obj\Debug\net6.0\refint\HRHub.Interfaces.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Interfaces\obj\Debug\net6.0\HRHub.Interfaces.pdb
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Interfaces\obj\Debug\net6.0\ref\HRHub.Interfaces.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Interfaces\bin\Debug\net6.0\HRHub.Interfaces.deps.json
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Interfaces\bin\Debug\net6.0\HRHub.Interfaces.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Interfaces\bin\Debug\net6.0\HRHub.Interfaces.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Interfaces\obj\Debug\net6.0\HRHub.Interfaces.csproj.AssemblyReference.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Interfaces\obj\Debug\net6.0\HRHub.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Interfaces\obj\Debug\net6.0\HRHub.Interfaces.AssemblyInfoInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Interfaces\obj\Debug\net6.0\HRHub.Interfaces.AssemblyInfo.cs
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Interfaces\obj\Debug\net6.0\HRHub.Interfaces.csproj.CoreCompileInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Interfaces\obj\Debug\net6.0\HRHub.Interfaces.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Interfaces\obj\Debug\net6.0\refint\HRHub.Interfaces.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Interfaces\obj\Debug\net6.0\HRHub.Interfaces.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Interfaces\obj\Debug\net6.0\ref\HRHub.Interfaces.dll

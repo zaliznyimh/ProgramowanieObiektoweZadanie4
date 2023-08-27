@@ -1,0 +1,57 @@
+[
+  {
+    "EmployeeID": 13377,
+    "Name": "Stanislav",
+    "Position": "Manager",
+    "HourlyRate": 43.0
+  },
+  {
+    "EmployeeID": 12345,
+    "Name": "Brown",
+    "Position": "Seller",
+    "HourlyRate": 22.0
+  },
+  {
+    "EmployeeID": 13532,
+    "Name": "Mateusz",
+    "Position": "Driver",
+    "HourlyRate": 20.77
+  },
+  {
+    "EmployeeID": 66666,
+    "Name": "Barbara",
+    "Position": "Packager",
+    "HourlyRate": 25.0
+  },
+  {
+    "EmployeeID": 32154,
+    "Name": "Thomas",
+    "Position": "Security guard",
+    "HourlyRate": 22.0
+  },
+  {
+    "EmployeeID": 98326,
+    "Name": "Martin",
+    "Position": "IT Specialist",
+    "HourlyRate": 45.0
+  },
+  {
+    "EmployeeID": 45632,
+    "Name": "Oleksandr",
+    "Position": "Driver",
+    "HourlyRate": 25.5
+  },
+  {
+    "EmployeeID": 78321,
+    "Name": "Michael",
+    "Position": "Manager",
+    "HourlyRate": 41.0
+  },
+  {
+    "Bonus": 300,
+    "EmployeeID": 91234,
+    "Name": "Andrew",
+    "Position": "Manager",
+    "HourlyRate": 42.0
+  }
+]

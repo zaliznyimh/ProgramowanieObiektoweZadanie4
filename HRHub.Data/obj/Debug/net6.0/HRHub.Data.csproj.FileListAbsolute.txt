@@ -1,0 +1,30 @@
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Data\bin\Debug\net6.0\HRHub.Data.deps.json
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Data\bin\Debug\net6.0\HRHub.Data.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Data\bin\Debug\net6.0\HRHub.Data.pdb
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Data\bin\Debug\net6.0\HRHub.Interfaces.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Data\bin\Debug\net6.0\HRHub.Interfaces.pdb
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Data\obj\Debug\net6.0\HRHub.Data.csproj.AssemblyReference.cache
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Data\obj\Debug\net6.0\HRHub.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Data\obj\Debug\net6.0\HRHub.Data.AssemblyInfoInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Data\obj\Debug\net6.0\HRHub.Data.AssemblyInfo.cs
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Data\obj\Debug\net6.0\HRHub.Data.csproj.CoreCompileInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Data\obj\Debug\net6.0\HRHub.Data.csproj.CopyComplete
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Data\obj\Debug\net6.0\HRHub.Data.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Data\obj\Debug\net6.0\refint\HRHub.Data.dll
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Data\obj\Debug\net6.0\HRHub.Data.pdb
+D:\ProgramowanieObiektoweGotoweZadania\Zadanie 4(Drocz)\HRHub\HRHub.Data\obj\Debug\net6.0\ref\HRHub.Data.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Data\bin\Debug\net6.0\HRHub.Data.deps.json
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Data\bin\Debug\net6.0\HRHub.Data.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Data\bin\Debug\net6.0\HRHub.Data.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Data\bin\Debug\net6.0\HRHub.Interfaces.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Data\bin\Debug\net6.0\HRHub.Interfaces.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Data\obj\Debug\net6.0\HRHub.Data.csproj.AssemblyReference.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Data\obj\Debug\net6.0\HRHub.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Data\obj\Debug\net6.0\HRHub.Data.AssemblyInfoInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Data\obj\Debug\net6.0\HRHub.Data.AssemblyInfo.cs
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Data\obj\Debug\net6.0\HRHub.Data.csproj.CoreCompileInputs.cache
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Data\obj\Debug\net6.0\HRHub.Data.csproj.CopyComplete
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Data\obj\Debug\net6.0\HRHub.Data.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Data\obj\Debug\net6.0\refint\HRHub.Data.dll
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Data\obj\Debug\net6.0\HRHub.Data.pdb
+D:\ProgramowanieObiektoweGotoweZadania\ProgramowanieObiektoweZadanie4\HRHub.Data\obj\Debug\net6.0\ref\HRHub.Data.dll
